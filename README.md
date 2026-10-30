@@ -1,1 +1,1 @@
-# egundo-cerebro-executivo
+# segundo-cerebro-executivo
